@@ -1,4 +1,6 @@
 class Solution {
+    //we calculate the mid and check if the element at mid pos is peak or not
+    //if mid we return or else we check if the mid is on the increasing slope or the decreasing slope and change the l and r ranges accordingly.
     public int findPeakElement(int[] nums) {
         int n = nums.length;
         if(n == 1){
