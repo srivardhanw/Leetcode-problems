@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/srivardhanw/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/srivardhanw/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/srivardhanw/Leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/srivardhanw/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srivardhanw/Leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/srivardhanw/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -38,4 +39,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srivardhanw/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/srivardhanw/Leetcode-problems/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/srivardhanw/Leetcode-problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
