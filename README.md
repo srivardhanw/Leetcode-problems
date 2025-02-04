@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/srivardhanw/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srivardhanw/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/srivardhanw/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/srivardhanw/Leetcode-problems/tree/master/0162-find-peak-element) |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/srivardhanw/Leetcode-problems/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/srivardhanw/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
