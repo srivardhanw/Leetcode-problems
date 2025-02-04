@@ -9,6 +9,7 @@
 | [0162-find-peak-element](https://github.com/srivardhanw/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/srivardhanw/Leetcode-problems/tree/master/0169-majority-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srivardhanw/Leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/srivardhanw/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
